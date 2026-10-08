@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0"><dict>
+<key>CFBundleName</key><string>NearGuard</string>
+<key>CFBundleDisplayName</key><string>NearGuard</string>
+<key>CFBundleIdentifier</key><string>local.nearguard.mac</string>
+<key>CFBundleVersion</key><string>1</string>
+<key>CFBundleShortVersionString</key><string>1.0.0</string>
+<key>CFBundleExecutable</key><string>NearGuard</string>
+<key>CFBundleIconFile</key><string>NearGuard</string>
+<key>CFBundlePackageType</key><string>APPL</string>
+<key>LSMinimumSystemVersion</key><string>14.0</string>
+<key>LSUIElement</key><true/>
+<key>NSHighResolutionCapable</key><true/>
+<key>NSPrincipalClass</key><string>NSApplication</string>
+<key>NSBluetoothAlwaysUsageDescription</key><string>仅在你点击扫描或开始后发现所选 BLE 设备并读取信号，用于本地接近锁屏观察。没有云端，不读取密码。</string>
+<key>NSBluetoothPeripheralUsageDescription</key><string>发现所选 BLE 设备并读取信号，用于本地接近锁屏观察。</string>
+</dict></plist>

@@ -1,0 +1,14 @@
+.build/
+dist/
+.DS_Store
+*.xcuserstate
+xcuserdata/
+
+evidence/
+__pycache__/
+.env
+.env.*
+*.pem
+*.p12
+*.mobileprovision
+*.xcconfig.local
